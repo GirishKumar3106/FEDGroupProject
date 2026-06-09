@@ -1,0 +1,4 @@
+[
+  { "id": 101, "title": "Handmade Wooden Toy", "price": 10, "image": "/images/wooden.jpg" },
+  { "id": 102, "title": "Organic Cotton Shirt", "price": 12, "image": "/images/tshirts.jpg" }
+]
